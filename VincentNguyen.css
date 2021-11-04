@@ -176,7 +176,8 @@
 
 .u-section-3 .u-image-1 {
   min-height: 629px;
-  background-image: url("images/closet.gif");
+  background-image: url("images/closet1.gif");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -185,7 +186,8 @@
 
 .u-section-3 .u-image-2 {
   min-height: 629px;
-  background-image: url("images/outfits.gif");
+  background-image: url("images/outfits1.gif");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-2 {
