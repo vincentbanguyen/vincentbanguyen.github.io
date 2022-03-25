@@ -386,7 +386,7 @@
 .u-section-4 .u-image-3 {
   width: 180px;
   height: 60px;
-  margin: 21px auto 0 28px;
+  margin: 17px auto 0 27px;
 }
 
 @media (max-width: 1199px) {
@@ -469,7 +469,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 629px;
-  background-image: url("images/RemoraRec2.gif");
+  background-image: url("images/RemoraRecording.gif");
   background-position: 50% 50%;
 }
 
@@ -479,7 +479,7 @@
 
 .u-section-5 .u-image-2 {
   min-height: 629px;
-  background-image: url("np://user.desktop.nicepage.com/Site_718309334/images/RemoraRecording.gif?rand=fc1f");
+  background-image: url("images/RemoraRec2.gif");
   background-position: 50% 50%;
 }
 
